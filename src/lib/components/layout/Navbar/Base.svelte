@@ -54,12 +54,6 @@
 			activeMatch: (pathname) => pathname.startsWith("/settings"),
 			icon: SettingsIcon,
 		},
-		{
-			name: m["navbar.about"](),
-			url: "/about/",
-			activeMatch: (pathname) => pathname.startsWith("/about"),
-			icon: InfoIcon,
-		},
 	]);
 
 	let links = $state<HTMLAnchorElement[]>([]);
