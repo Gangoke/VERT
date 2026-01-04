@@ -1,4 +1,3 @@
-test
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf441748-0ec5-4c8a-b3e5-11301ee3f0bd" alt="VERT's logo" height="100">
 </p>
